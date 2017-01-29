@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_91" class="java.beans.XMLDecoder">
+ <object class="com.company.ListaEquipos" id="ListaEquipos0">
+  <void property="listaEquipo">
+   <void method="add">
+    <object class="com.company.Equipo">
+     <void property="creacion">
+      <object class="java.util.Date">
+       <long>61286194800000</long>
+      </object>
+     </void>
+     <void property="id">
+      <int>1</int>
+     </void>
+     <void property="listaJugadores">
+      <object class="java.util.ArrayList">
+       <void method="add">
+        <object class="com.company.Jugador">
+         <void property="asistencias">
+          <int>19</int>
+         </void>
+         <void property="birthday">
+          <object class="java.util.Date">
+           <long>-1798761600000</long>
+          </object>
+         </void>
+         <void property="canastas">
+          <int>15</int>
+         </void>
+         <void property="id">
+          <int>1</int>
+         </void>
+         <void property="nombre">
+          <string>irvin</string>
+         </void>
+         <void property="posicion">
+          <string>pivot</string>
+         </void>
+         <void property="rebotes">
+          <int>30</int>
+         </void>
+        </object>
+       </void>
+      </object>
+     </void>
+     <void property="localidad">
+      <string>cliveland</string>
+     </void>
+     <void property="nombre">
+      <string>cavs</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
